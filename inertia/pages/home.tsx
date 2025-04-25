@@ -77,7 +77,7 @@ export default function Home() {
               <div className="space-y-1">
                 <h2 className="text-lg font-semibold">
                   <a href="https://docs.adonisjs.com" target="_blank">
-                    <span>Documentation</span>
+                    <span>Documentation!!!!!</span>
                     <span className="absolute inset-0"></span>
                   </a>
                 </h2>
